@@ -25,7 +25,7 @@ function SubtitleConverter() {
     formData.append('file',selectedFile);
     formData.append('source',data.source);
     formData.append('destination',data.destination);
-    fetch('http://127.0.0.1:5000/result', {
+    fetch('http://satya12.pythonanywhere.com/result', {
       method: 'POST',
       body: formData,
     })
