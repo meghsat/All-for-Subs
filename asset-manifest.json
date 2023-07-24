@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/All-for-Subs/static/css/main.f629cc08.css",
-    "main.js": "/All-for-Subs/static/js/main.88d65ea3.js",
+    "main.js": "/All-for-Subs/static/js/main.930efb28.js",
     "static/media/img-2.jpg": "/All-for-Subs/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "index.html": "/All-for-Subs/index.html",
     "main.f629cc08.css.map": "/All-for-Subs/static/css/main.f629cc08.css.map",
-    "main.88d65ea3.js.map": "/All-for-Subs/static/js/main.88d65ea3.js.map"
+    "main.930efb28.js.map": "/All-for-Subs/static/js/main.930efb28.js.map"
   },
   "entrypoints": [
     "static/css/main.f629cc08.css",
-    "static/js/main.88d65ea3.js"
+    "static/js/main.930efb28.js"
   ]
 }
